@@ -3,4 +3,5 @@ uvicorn
 pandas
 mlxtend
 joblib
-scikit-learn==1.6.1
+scikit-learn
+
